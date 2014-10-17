@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[spk:home|Door43 (spk)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-spk|d43-spk repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-spk/archive/master.zip|d43-spk.zip]]
+
+**Recent Changes**
+{{changes>ns = spk}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/spk|Ethnologue data]]
+
